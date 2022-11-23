@@ -1,20 +1,21 @@
 .intro {
     width: 100%;
-    height: 550px;
+    height: 650px;
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
+    margin-top: 5px;
     
 }
 .Titulo {
     font-size: 75px;
-    color: white;
+    color: black;
 
 }
 .Subtitulo {
     font-size: 35px;
-    color: white;
+    color: black;
 }
 .btn {
     transition: box-shadow .3s;

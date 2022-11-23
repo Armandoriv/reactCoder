@@ -1,3 +1,4 @@
-body {
+body{
     background-image: url(../public/img/montañaback.jpg);
+    transition: all ease 2s;
 }
